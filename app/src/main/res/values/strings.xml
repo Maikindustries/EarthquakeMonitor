@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Earthquake Monitor</string>
+    <string name="eq_empty_view">No earthquake right now</string>
+</resources>
